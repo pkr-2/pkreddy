@@ -1,5 +1,8 @@
 phone-i
-
+samsung-8
 phone-v
+
+
+
 
 phone-y
